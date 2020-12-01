@@ -1,0 +1,53 @@
+#container-sessao4{
+    margin-bottom: -1em;
+}
+
+#container-sessao4 .container .row{
+    margin-bottom: 0;
+}
+
+#div-area-cliente{
+    margin-bottom: 2em;
+}
+
+#titulos-juntar-nos{
+    color: #641682;
+    font-family: 'Montserrat-medium';
+}
+
+#div-titulo-clientes h5{
+    font-family: 'Montserrat-medium';
+    background-color:white;
+    text-align:right;
+    color:#641682;
+    text-align: right;
+    font-size: 20px;
+}
+
+#div-titulo-clientes p{
+    font-family: 'Montserrat-regular';
+    background-color:white;
+    text-align:right;
+    color:#000000;
+    text-align: right;
+    font-size: 14px;
+}
+
+#div-area-fotografo .col h5{
+    font-family: 'Montserrat-medium';
+    background-color:white;
+    text-align:right;
+    color:#641682;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+#div-area-fotografo .col p{
+    font-family: 'Montserrat-regular';
+    background-color:white;
+    text-align:right;
+    color:#000000;
+    text-align: left;
+    font-size: 14px;
+}

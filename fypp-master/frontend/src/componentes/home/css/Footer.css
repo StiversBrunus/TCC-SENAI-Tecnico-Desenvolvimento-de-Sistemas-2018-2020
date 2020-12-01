@@ -1,0 +1,20 @@
+.page-footer{
+    background-color: #ffffff;
+}
+
+ h5{
+    color: #641682;
+}
+
+.page-footer .container .row .col p{
+    color: #641682;
+    margin-bottom: 2em;
+}
+
+a{
+    color: #733d87;
+}
+
+/* hr{
+    background-color:#DB92FE;
+} */

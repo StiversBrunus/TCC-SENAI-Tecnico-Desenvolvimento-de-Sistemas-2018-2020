@@ -1,0 +1,53 @@
+#container-sessao1{
+    background-color: #641682;
+}
+
+#container-sessao1 .container .row{
+    background-color:#641682;
+    margin-bottom: 0;
+}
+
+#div-btncadastro{
+    background-color:#641682;
+    padding-top: 9em;
+}
+
+#div-btncadastro .row{
+    background-color:#641682;
+}
+
+#div-slogan h4{
+    font-family: 'Montserrat-extrabold';
+    color:#ffffff;
+}
+
+#div-input-btn-cadastro{
+    background-color:#641682;
+    margin-top: 15px;
+}
+
+#div-input-btn-cadastro a{
+    background-color:#FFFFFF;
+    color:#641682;
+    border-radius: 90;
+    font-weight: bold;
+
+}
+
+#div-img-circulo{
+    padding-top: 30px;
+    padding-left: 20px;
+    background-color:#641682
+}
+
+#circulo-img{
+    background-color: aliceblue;
+    width: 370px;
+    height: 370px;
+    border-radius: 50%;
+    border: 3px solid #ffffff;
+    background-image: url(../imagens/fotografos01.jpeg);
+    background-size: cover;
+}
+
+

@@ -1,0 +1,32 @@
+#container-sessao5{
+    background-color: #641682;
+}
+
+#container-sessao5 .container .row{
+    margin-bottom: 0;
+    background-color: #641682;
+}
+
+#tela-fypp img{
+    height:150;
+     width:150;
+}
+
+#desc-mobile h4{
+    font-family: 'Montserrat';
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#desc-mobile p{
+    color: #ffffff;
+    font-size: 1em;
+}
+
+#desc-mobile span{
+    font-family: 'Montserrat-semibold';
+    color: #ffffff;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+}

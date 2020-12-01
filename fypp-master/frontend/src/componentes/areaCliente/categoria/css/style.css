@@ -1,0 +1,13 @@
+.datepicker-date-display { background-color: #6d4e7a; }
+.datepicker-cancel  { color: #6d4e7a; }
+.datepicker-done  { color: #6d4e7a; }
+.datepicker-table td.is-selected { background-color: #6d4e7a; color: aliceblue; }
+.datepicker-table td.is-today { color: #6d4e7a; }
+
+
+.timepicker-digital-display { background-color: #6d4e7a; }
+.timepicker-canvas-bg{ fill: #6d4e7a; }
+.timepicker-canvas line{stroke: #6d4e7a;}
+.timepicker-canvas-bearing {stroke: #6d4e7a;fill: #6d4e7a;}
+.timepicker-close {color: #6d4e7a;}
+.timepicker-done {color: #6d4e7a;} 

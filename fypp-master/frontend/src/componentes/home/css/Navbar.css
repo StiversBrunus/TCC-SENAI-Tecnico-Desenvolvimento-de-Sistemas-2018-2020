@@ -1,0 +1,22 @@
+#Fypp-navbar{
+    font-family: 'Montserrat-regular';
+}
+
+nav{
+    background-color:#641682;
+}
+
+#btn-login{
+    background-color:#FFFFFF;
+    color:#641682;
+    border-radius: 90;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.dropdown-content li > a {
+    color:#641682;
+}
+
+
+

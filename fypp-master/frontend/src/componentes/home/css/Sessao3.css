@@ -1,0 +1,30 @@
+#container-sessao3{
+    background-color: #641682;
+    margin-top: 0;
+}
+
+#container-sessao3 .container .row{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.card{
+    background-color:#ffffff;border-radius: 5px
+}
+
+#div-nossos-servicos h5{
+    font-family: 'Montserrat-regular';
+    text-align:right;
+    color:#ffffff;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+#div-nossos-servicos p{
+    font-family: 'Montserrat-light';
+    text-align:right;
+    color:#ffffff;
+    text-align: right;
+    font-size: 14px;
+}

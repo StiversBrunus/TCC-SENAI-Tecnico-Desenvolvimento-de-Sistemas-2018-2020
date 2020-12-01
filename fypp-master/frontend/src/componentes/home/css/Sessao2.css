@@ -1,0 +1,26 @@
+#quadado-img{
+    width: 350px;
+    height: 450px;
+    border-radius: 45px;
+    border: 3px solid #641682;
+    transform: rotate(85deg);
+    padding: 0;background-image: url(../imagens/fotografos02.jpg); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+#div-btn-cadastro{
+    padding-top: 100px;
+}
+
+#div-btn-cadastro .row .col h5{
+    color: #641682;
+    text-align:right;
+    font-family: 'Montserrat-regular';
+}
+
+#desc-sobre-nos p{
+    font-family: 'Montserrat-light';
+    text-align:right;
+    color: #000000;
+}

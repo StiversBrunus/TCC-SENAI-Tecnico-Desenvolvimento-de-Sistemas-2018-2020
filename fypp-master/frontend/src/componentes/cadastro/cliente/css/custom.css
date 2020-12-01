@@ -1,0 +1,301 @@
+.border-purple{
+  border-radius: 5px;
+  border: 1px solid #641682;
+}
+
+.select{
+  border-radius: 5px;
+  border: 1px solid #641682;
+}
+.margin-top{
+margin-top: -20px;
+}
+.card{
+  background-color: white;
+}
+
+
+.titulo{
+  color: white;
+  /* background-color: #641682; */
+  padding: 30px;
+  background-image: linear-gradient(#d07bf1, #8d25b6, #641682);
+  /* border-radius: 0px 0px 800px 0px; */
+  /* max-width: 1300px;; */
+  position: relative;;
+}
+.marfin-top-Celular{
+  margin-top: -20px;
+}
+.margin-topSexo{
+  margin-top: 25px;;
+}
+.font-13{
+  font-size: 13px;
+}
+
+input[type="radio"]:checked + span::after, [type="radio"].with-gap:checked + span::after{
+  background-color:  #641682;
+  border: solid 0px;
+ 
+    
+}
+
+input[type="radio"]:not(:checked) + span::before, [type="radio"]:not(:checked) + span::after {
+  border: 1px solid  #641682;
+}
+ 
+input[type="checkbox"] + span:not(.lever)::before, [type="checkbox"]:not(.filled-in) + span:not(.lever)::after {
+  border: 1px solid  #641682;
+}
+
+input[type="checkbox"]:checked + span:not(.lever)::before {
+  top: -4px;
+  left: -5px;
+  width: 12px;
+  height: 22px;
+  border-top: 2px solid transparent;
+  border-left: 2px solid transparent;
+  border-right: 2px solid #641682;
+  border-bottom: 2px solid  #641682;
+  transform: rotate(40deg);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  transform-origin: 100% 100%;
+}
+.color-black{
+  color: black;
+}
+.margin-right{
+  margin-right: 10px;;
+}
+input[type=text]:not(.browser-default){
+  border-bottom: 0px solid 
+}
+
+input[type=email]:not(.browser-default){
+  border-bottom: 0px solid 
+}
+
+input:not([type]), input[type="text"]:not(.browser-default), 
+input[type="password"]:not(.browser-default), 
+input[type="email"]:not(.browser-default), input[type="url"]:not(.browser-default), 
+input[type="time"]:not(.browser-default), input[type="date"]:not(.browser-default), 
+input[type="datetime"]:not(.browser-default), input[type="datetime-local"]:not(.browser-default), 
+input[type="tel"]:not(.browser-default), input[type="number"]:not(.browser-default), 
+input[type="search"]:not(.browser-default), textarea.materialize-textarea {
+  background-color: transparent;
+  border: none;
+  /* border-bottom: 1px solid #9e9e9e; */
+  /* margin-top: -5px; */
+  border-radius: 0;
+  outline: none;
+  height: 3rem;
+  width: 100%;
+  font-size: 16px;
+  padding: 0;
+  box-shadow: none;
+  box-sizing: content-box;
+  transition: box-shadow .3s, border .3s;
+}
+
+.no-line a:any-link{
+  text-decoration: none;
+  color: black;
+  background-color: #641682;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: none;
+  box-shadow: none;
+}
+
+.btn:focus, .btn-large:focus, .btn-small:focus, .btn-floating:focus {
+
+  background-color: #6e3287;
+
+}
+button:focus {
+
+  outline: none;
+  background-color: #641682;
+
+}
+ .btn:hover, .btn-large:hover, .btn-small:hover {
+
+  background-color: #6e3287;
+}
+
+.errosForm{
+  /* padding: 20px; */
+  font-size: 12px;
+  /* background-color: blue; */
+  position: absolute;
+  
+}
+
+.errosFormNome{
+  font-size: 11px;
+ 
+}
+.btn, .btn-large, .btn-small {
+
+  text-decoration: none;
+  color: #641682;
+  background-color:  #641682;
+  text-align: center;
+  letter-spacing: .5px;
+  transition: background-color .2s ease-out;
+  cursor: pointer;
+
+} 
+
+.erroSenha{
+  margin-top: -20px;
+  margin-left: -10px;
+  /* background-color: blue; */
+}
+
+
+.no-line a:any-link{
+  text-decoration: none;
+  color: black;
+}
+
+.submitFrmLogin{
+  color: white;
+  background-color: #641682;
+  box-shadow: none;
+  letter-spacing: 2px;
+  border-radius: 2px;
+}
+
+.submitFrmLogin:hover{
+  background-color: rgba(100 , 22, 130, 0.9) ;
+} 
+
+/* .submitFrmLogin{
+  border: 1px solid #641682;
+  background-color: white;
+  color: #641682;    
+  letter-spacing: 3px;
+  border-radius: 5px;
+} */
+
+/* .submitFrmLogin:hover{
+  color: white;
+  background-color: #641682;
+  font-weight: bold;
+  transition: 1s; 
+  box-shadow: none;
+} */
+
+
+
+
+
+
+
+
+
+.border-purple{
+  border-radius: 5px;
+  border: 1px solid #641682;
+}
+
+.margin-top-icons-login{
+  margin-top: 7px;
+}
+
+.font-color-purple{
+  color: #641682;
+}
+
+.font-14{
+  font-size: 14px;
+  color: black;
+}
+
+input[type=text]:not(.browser-default){
+  border-bottom: 0px solid 
+}
+
+.no-line a:any-link{
+  text-decoration: none;
+  color: black;
+}
+
+.submitFrmLogin{
+  color: white;
+  background-color: #641682;
+  box-shadow: none;
+  letter-spacing: 2px;
+  border-radius: 2px;
+}
+
+.submitFrmLogin:hover{
+  background-color: rgba(100 , 22, 130, 0.9) ;
+} 
+
+/* .submitFrmLogin{
+  border: 1px solid #641682;
+  background-color: white;
+  color: #641682;    
+  letter-spacing: 3px;
+  border-radius: 5px;
+} */
+
+/* .submitFrmLogin:hover{
+  color: white;
+  background-color: #641682;
+  font-weight: bold;
+  transition: 1s; 
+  box-shadow: none;
+} */
+
+.input-field input[type=text]:focus, .input-field input[type=password]:focus {
+  border-bottom: none;
+  box-shadow: none;
+  border-bottom-color: none;
+}
+
+.camposFrmLogin input[type=text]:not(.browser-default), .camposFrmLogin input[type=password]:not(.browser-default){
+  height: 3rem;
+  width: 100%;
+  font-size: 14px;
+  margin: 0 0 0 0;
+  border-bottom: none;
+  box-shadow: none;
+}
+
+.frmLogin{
+  margin-bottom: 3em;    
+}
+
+.modal{
+  max-height: 80%;
+}
+
+.linkCadastroFrmLogin a p{
+  color:#641682;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
